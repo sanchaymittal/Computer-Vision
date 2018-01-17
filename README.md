@@ -1,4 +1,4 @@
-# openCV
+# Computer Vision
 Learning image processing
 
 # About
